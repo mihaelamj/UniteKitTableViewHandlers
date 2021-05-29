@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MMJSectionedDataSource",
+        "repositoryURL": "https://github.com/mihaelamj/MMJSectionedDataSource",
+        "state": {
+          "branch": null,
+          "revision": "9bba7944db0a52ca170a1bb6763dc6fda440fa82",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "MMJUtils",
+        "repositoryURL": "https://github.com/mihaelamj/MMJUtils",
+        "state": {
+          "branch": null,
+          "revision": "983a2d57b726e6f0348f0616e13e3e542fb01aa2",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "UniteKit",
+        "repositoryURL": "https://github.com/mihaelamj/UniteKit",
+        "state": {
+          "branch": null,
+          "revision": "c28f6679a519eafd4ff08fc72877161c1984d12f",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
