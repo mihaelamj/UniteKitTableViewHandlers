@@ -17,7 +17,7 @@ import Cocoa
 
 open class UKTableViewHandlerClass: NSObject {
   #if os(iOS) || os(tvOS)
-  var defaultTextColor = AColor(red: 66/255, green: 66/255, blue: 66/255, alpha: 1) // #424242
+  var defaultTextColor = UKColor(red: 66/255, green: 66/255, blue: 66/255, alpha: 1) // #424242
   #endif
   
   #if os(OSX)

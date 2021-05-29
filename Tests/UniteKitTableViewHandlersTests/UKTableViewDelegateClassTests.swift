@@ -52,7 +52,7 @@ final class UKTableViewDelegateClassTests: XCTestCase {
   func testDidSelectRow() {
     let tableView = makeAndPrepareTableView()
     
-    let itemDelegate = AllApplesTableViewDelegateTests.sut.itemDelegate as? UKTableViewItemDelegateClass
+    let itemDelegate = UKTableViewDelegateClassTests.sut.itemDelegate as? TableViewItemDelegateClass
     XCTAssertNotNil(itemDelegate)
     
     let indexPath = IndexPath(item: 0, section: 0)
